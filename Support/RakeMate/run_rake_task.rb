@@ -1,4 +1,4 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby -w
+#!/usr/bin/env ruby -w
 
 require "#{ENV["TM_SUPPORT_PATH"]}/lib/escape"
 
