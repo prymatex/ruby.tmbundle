@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>pass`"$TM_BUNDLE_SUPPORT/bin/snippet_paren.rb"`"${1:Message.}"`"$TM_BUNDLE_SUPPORT/bin/snippet_paren.rb" end`$0</string>
+	<string>lookup.define.ruby</string>
+	<key>keyEquivalent</key>
+	<string>^h</string>
 	<key>name</key>
-	<string>pass(..)</string>
+	<string>Documentation for Word / Selection</string>
 	<key>scope</key>
 	<string>source.ruby</string>
-	<key>tabTrigger</key>
-	<string>pas</string>
 	<key>uuid</key>
-	<string>F46A4687-E52D-40D2-9072-C215645EDBC6</string>
+	<string>D5660BB2-C554-4694-9E0F-F20CDB6B9EA0</string>
 </dict>
 </plist>
