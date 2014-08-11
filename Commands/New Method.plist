@@ -5,11 +5,7 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-<<<<<<< HEAD
-	<string>#!/usr/bin/env ruby -wKU
-=======
 	<string>#!/usr/bin/env ruby18 -wKU
->>>>>>> textmate/master
 
 require "#{ENV['TM_SUPPORT_PATH']}/lib/exit_codes"
 require "#{ENV['TM_SUPPORT_PATH']}/lib/escape"
@@ -46,7 +42,8 @@ end
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>keyEquivalent</key>
-	<string>$</string>
+	<string>$
+</string>
 	<key>name</key>
 	<string>New Method</string>
 	<key>outputCaret</key>
