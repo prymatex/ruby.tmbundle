@@ -5,7 +5,11 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
+<<<<<<< HEAD
 	<string>#!/usr/bin/env ruby -KU
+=======
+	<string>#!/usr/bin/env ruby18 -KU
+>>>>>>> textmate/master
 # encoding:  UTF-8
 
 require "rexml/text"

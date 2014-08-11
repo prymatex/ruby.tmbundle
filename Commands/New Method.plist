@@ -5,7 +5,11 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
+<<<<<<< HEAD
 	<string>#!/usr/bin/env ruby -wKU
+=======
+	<string>#!/usr/bin/env ruby18 -wKU
+>>>>>>> textmate/master
 
 require "#{ENV['TM_SUPPORT_PATH']}/lib/exit_codes"
 require "#{ENV['TM_SUPPORT_PATH']}/lib/escape"

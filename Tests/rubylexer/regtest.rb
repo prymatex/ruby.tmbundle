@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w -d
+#!/usr/bin/env ruby18 -w -d
 require "reg"
 require "regarray"
 require "reglogic"

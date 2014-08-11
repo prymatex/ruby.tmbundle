@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -w
+#!/usr/bin/env ruby18 -w
 
 require "#{ENV["TM_SUPPORT_PATH"]}/lib/escape"
 
